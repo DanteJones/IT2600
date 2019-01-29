@@ -34,5 +34,7 @@ printf("Hello Word");
 | Scott         | Pay check is  |   $10 |
 
 **This is bold text**
+
 *This text is italicized*
+
 ~~This is a strikethough~~
