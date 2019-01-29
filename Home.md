@@ -15,7 +15,7 @@
 ((code block))
 
 ```C
-printf("Hello Word");
+printf("Hello World");
 ```
 
 > Blockquote
@@ -39,8 +39,6 @@ printf("Hello Word");
 *This text is italicized*
 
 ~~This is a strikethough~~
-
---
 
 a horizontal rule like the one that follows this list.
 --
