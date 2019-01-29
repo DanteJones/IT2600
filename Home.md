@@ -4,10 +4,6 @@
 
 [Google](https://www.google.com)
 
-```C
-printf("Hello Word");
-```
-
 #### Links to Markdowns
 [ReadMe](https://github.com/DanteJones/IT2600/blob/master/README.md)
 
@@ -17,6 +13,10 @@ printf("Hello Word");
 ![alt text](http://images.newindianexpress.com/images/FrontEnd/images/search-mob.png)
 
 ((code block))
+
+```C
+printf("Hello Word");
+```
 
 > Blockquote
 
