@@ -12,8 +12,6 @@
 
 ![alt text](http://images.newindianexpress.com/images/FrontEnd/images/search-mob.png)
 
-((code block))
-
 ```C
 printf("Hello World");
 ```
