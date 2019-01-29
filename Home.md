@@ -41,5 +41,6 @@ printf("Hello Word");
 ~~This is a strikethough~~
 
 --
+
 a horizontal rule like the one that follows this list.
 --
