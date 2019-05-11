@@ -7,7 +7,7 @@ The Target audience is people who are new to Git
 
 # H1
 ## H2
-###H3
+### H3
 #### H4
 
 [Google](https://www.google.com)
